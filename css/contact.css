@@ -1,0 +1,38 @@
+.top_menu {
+  float: right;
+}
+
+
+.contact_form th {
+  width: 150px;
+  height: 7rem;
+  text-align: right;
+}
+
+.contact_form td {
+  padding-left: 10px;
+}
+
+.text {
+  width: 480px;
+}
+
+.content_contact {
+  width: 660px;
+  margin-left: 0px;
+  float: left;
+  font-size: 1.5rem;
+}
+
+.submit {
+  margin: 5px 50%;
+}
+
+.submit input {
+  width:80px;
+  height:40px;
+  color: #fff;
+  background-color: #20b2aa;
+  font-size: 2rem;
+  border: none;
+ }
