@@ -28,6 +28,10 @@
   margin: 5px 50%;
 }
 
+.submit:hover {
+  opacity: 0.6;
+}
+
 .submit input {
   width:80px;
   height:40px;
